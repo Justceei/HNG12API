@@ -31,3 +31,4 @@ C:\Users\CEEI\HNG12API\obj\Debug\net9.0\refint\HNG12API.dll
 C:\Users\CEEI\HNG12API\obj\Debug\net9.0\HNG12API.pdb
 C:\Users\CEEI\HNG12API\obj\Debug\net9.0\HNG12API.genruntimeconfig.cache
 C:\Users\CEEI\HNG12API\obj\Debug\net9.0\ref\HNG12API.dll
+C:\Users\CEEI\HNG12API\obj\Debug\net9.0\HNG12API.sourcelink.json

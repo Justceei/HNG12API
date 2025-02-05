@@ -1,0 +1,9 @@
+C:\Users\CEEI\HNG12API\publish\HNG12API.exe
+C:\Users\CEEI\HNG12API\publish\appsettings.Development.json
+C:\Users\CEEI\HNG12API\publish\appsettings.json
+C:\Users\CEEI\HNG12API\publish\HNG12API.dll
+C:\Users\CEEI\HNG12API\publish\HNG12API.deps.json
+C:\Users\CEEI\HNG12API\publish\HNG12API.runtimeconfig.json
+C:\Users\CEEI\HNG12API\publish\HNG12API.pdb
+C:\Users\CEEI\HNG12API\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CEEI\HNG12API\publish\Microsoft.OpenApi.dll
